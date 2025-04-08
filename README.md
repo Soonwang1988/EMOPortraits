@@ -214,8 +214,3 @@ Please refer to **notebooks/E_emo_infer_video.ipynb**
 
 We extend our gratitude to all contributors and participants who made this project possible. Special thanks to the developers of the datasets and tools that were instrumental in our research.
 
----
-
-## License
-
-This project is licensed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to use, modify, and distribute this work non-commercially, as long as appropriate credit is given and any derivative works are licensed under identical terms.
